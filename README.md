@@ -4,7 +4,7 @@
   Scanbot SDK Examples
 </h1>
 
-Quick links for example repos of all platforms and frameworks supported by [Scanbot SDKs](https://scanbot.io/sdk).
+Quick links for example repos of all platforms and frameworks supported by [Scanbot SDKs](https://scanbot.io).
 
 ## Scanbot Document Scanner SDK
 
