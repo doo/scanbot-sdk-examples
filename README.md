@@ -18,6 +18,7 @@ Examples for the **all-in-one** Document Scanner SDK
 - [React Native](https://github.com/doo/scanbot-sdk-example-react-native)
 - [Xamarin](https://github.com/doo/scanbot-sdk-example-xamarin)
 - [Xamarin.Forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms)
+- [Web](https://github.com/doo/scanbot-sdk-example-web)
 
 
 ## Scanbot Barcode Scanner SDK
