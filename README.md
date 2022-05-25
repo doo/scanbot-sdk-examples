@@ -4,11 +4,25 @@
   Scanbot SDK Examples
 </h1>
 
-Quick links for example repos of all platforms and frameworks supported by [Scanbot SDKs](https://scanbot.io).
+Quick links to the [Scanbot SDK](https://scanbot.io) example app repositories for all supported platforms and frameworks.
+
+## Scanbot Barcode Scanner SDK
+
+Use this if you only need the barcode scanning functionality. 
+Examples for the **stand-alone** [Barcode Scanner SDK](https://scanbot.io/products/barcode-software/barcode-sdk/):
+
+- [Android](https://github.com/doo/scanbot-barcode-scanner-sdk-example-android)
+- [iOS](https://github.com/doo/scanbot-barcode-scanner-sdk-example-ios)
+- [Cordova / Ionic](https://github.com/doo/scanbot-barcode-scanner-sdk-example-cordova-ionic)
+- [Flutter](https://github.com/doo/scanbot-barcode-scanner-sdk-example-flutter)
+- [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native)
+- [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
+
 
 ## Scanbot Document Scanner SDK
 
-Examples for the **all-in-one** Document Scanner SDK
+Examples for the **all-in-one** [Document](https://scanbot.io/products/document-scanning/document-scanner-sdk/) 
+and [Barcode Scanner SDK](https://scanbot.io/products/barcode-software/barcode-sdk/):
 
 - [Android](https://github.com/doo/scanbot-sdk-example-android)
 - [iOS](https://github.com/doo/scanbot-sdk-example-ios) 
@@ -19,15 +33,3 @@ Examples for the **all-in-one** Document Scanner SDK
 - [Xamarin](https://github.com/doo/scanbot-sdk-example-xamarin)
 - [Xamarin.Forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms)
 - [Web](https://github.com/doo/scanbot-sdk-example-web)
-
-
-## Scanbot Barcode Scanner SDK
-
-Examples for the **stand-alone** Barcode Scanner SDK
-
-- [Android](https://github.com/doo/scanbot-barcode-scanner-sdk-example-android)
-- [iOS](https://github.com/doo/scanbot-barcode-scanner-sdk-example-ios)
-- [Cordova / Ionic](https://github.com/doo/scanbot-barcode-scanner-sdk-example-cordova-ionic)
-- [Flutter](https://github.com/doo/scanbot-barcode-scanner-sdk-example-flutter)
-- [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native)
-- [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
