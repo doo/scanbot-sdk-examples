@@ -17,6 +17,8 @@ Examples for the **stand-alone** [Barcode Scanner SDK](https://scanbot.io/produc
 - [Flutter](https://github.com/doo/scanbot-barcode-scanner-sdk-example-flutter)
 - [React Native](https://github.com/doo/scanbot-barcode-scanner-sdk-example-react-native)
 - [Xamarin & Xamarin.Forms](https://github.com/doo/scanbot-barcode-scanner-sdk-example-xamarin)
+- [Web](https://github.com/doo/scanbot-sdk-example-web)
+- [Windows](https://github.com/doo/scanbot-barcode-scanner-sdk-example-windows)
 
 
 ## Scanbot Document Scanner SDK
