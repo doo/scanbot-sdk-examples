@@ -35,3 +35,10 @@ and [Barcode Scanner SDK](https://scanbot.io/products/barcode-software/barcode-s
 - [Xamarin](https://github.com/doo/scanbot-sdk-example-xamarin)
 - [Xamarin.Forms](https://github.com/doo/scanbot-sdk-example-xamarin-forms)
 - [Web](https://github.com/doo/scanbot-sdk-example-web)
+
+
+## Free Developer Support
+
+We provide free "no-strings-attached" developer support for the implementation & testing of the Scanbot SDK.
+If you encounter technical issues with integrating the Scanbot SDK or need advice on choosing the appropriate
+framework or features, please visit our [Support Page](https://docs.scanbot.io/support/).
