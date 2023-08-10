@@ -30,7 +30,6 @@ and [Barcode Scanner SDK](https://scanbot.io/products/barcode-software/barcode-s
 - [Android](https://github.com/doo/scanbot-sdk-example-android)
 - [iOS](https://github.com/doo/scanbot-sdk-example-ios) 
 - [Cordova / Ionic](https://github.com/doo/scanbot-sdk-example-ionic)
-- [Capacitor](https://github.com/doo/scanbot-sdk-capacitor-example)
 - [Capacitor / Ionic](https://github.com/doo/scanbot-sdk-example-capacitor-ionic)
 - [Flutter](https://github.com/doo/scanbot-sdk-example-flutter)
 - [React Native](https://github.com/doo/scanbot-sdk-example-react-native)
